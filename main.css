@@ -1,0 +1,26 @@
+.slider-body {
+    display: flex;
+    justify-content: space-around;
+}
+
+.swiper-container {
+    height: 30vh;
+}
+
+.image-slider-wrapper {
+    position: relative;
+    width: 50%;
+
+    .swiper-slide img {
+        padding: 1rem;
+        object-fit: cover;
+    }
+}
+
+.swiper-slide {
+    background-color: pink;
+}
+
+.quote-slider-wrapper {
+    width: 50%;
+}

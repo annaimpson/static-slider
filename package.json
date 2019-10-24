@@ -1,0 +1,19 @@
+{
+  "name": "static-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annaimpson/static-slider.git"
+  },
+  "author": "anna impson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annaimpson/static-slider/issues"
+  },
+  "homepage": "https://github.com/annaimpson/static-slider#readme"
+}
